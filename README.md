@@ -31,7 +31,7 @@ $ sleep 1d && sleep 23h
 ```
 
 
-[![cli-sleep](https://i.imgur.com/2wdhAut.jpg)](https://merferry.github.io)
+[![cli-sleep](https://i.imgur.com/2wdhAut.jpg)](https://merferry.github.io) [![Greenkeeper badge](https://badges.greenkeeper.io/nodef/cli-sleep.svg)](https://greenkeeper.io/)
 > Source code for windows executable is [here](https://repl.it/@wolfram77/cli-sleep).
 
 [sleep]: https://en.wikipedia.org/wiki/Sleep_(Unix)
